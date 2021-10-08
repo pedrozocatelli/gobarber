@@ -1,0 +1,9 @@
+[submodule "gobarber-api"]
+	path = gobarber-api
+	url = https://github.com/pedrozocatelli/gobarber-api.git
+[submodule "gobarber-web"]
+	path = gobarber-web
+	url = https://github.com/pedrozocatelli/gobarber-web.git
+[submodule "gobarber-app"]
+	path = gobarber-app
+	url = https://github.com/pedrozocatelli/gobarber-app
