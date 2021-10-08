@@ -24,10 +24,18 @@
 ![png1](github/signUp.png)
 ![png2](github/dashboard.png)
 ![png3](github/profile.png)
-![png4](github/signInApp.png)
-![png5](github/signUpApp.png)
-![png6](github/dashboardApp.png)
-![png7](github/profileApp.png)
+<div align="center" >
+  <img src="github/signInApp.png" alt="sign-in">
+</div>
+<div align="center" >
+  <img src="github/signUpApp.png" alt="sign-up">
+</div>
+<div align="center" >
+  <img src="github/dashboardApp.png" alt="dashboard">
+</div>
+<div align="center" >
+  <img src="github/profileApp.png" alt="profile">
+</div>
 
 
 ## :construction: Project
