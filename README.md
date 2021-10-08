@@ -36,9 +36,9 @@ This is the GoBarber central repository. You can check the individual repositori
 
 ## :spiral_notepad: Repositories
 
-### - [API](https://github.com/pedrozocatelli/gobarber-api)
-### - [Web](https://github.com/pedrozocatelli/gobarber-web)
-### - [App](https://github.com/pedrozocatelli/gobarber-app)
+* [API](https://github.com/pedrozocatelli/gobarber-api)
+* [Web](https://github.com/pedrozocatelli/gobarber-web)
+* [App](https://github.com/pedrozocatelli/gobarber-app)
 
 
 ## :rocket: Technologies
